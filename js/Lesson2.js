@@ -66,9 +66,9 @@
 // const string1 = 'Привіт, я принц Абдул, це не спам, пропоную тобі мільйон!';
 // const string2 = 'Найбільший РОЗПРОДАЖ цього тижня, не пропустіть!';
 // const string3 = 'Рекламна кампанія #jsIsAwesome';
-// const norm=string1.toLowerCase()
+// const norm= string1.toLowerCase()
 // const norm2=string2.toLowerCase
-// const norm3=string3.toLowerCase
+// const norm3= string3.toLowerCase
 // console.log(norm2.inCludes(blacklistedWord1))
 // console.log(norm2.inCludes(blacklistedWord2))
 

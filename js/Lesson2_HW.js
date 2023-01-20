@@ -22,10 +22,10 @@
 
 // 3
 
-console.log(Math.max(2, 34, 99, 3, 22, 36, 733, 18));
-console.log(Math.min(2, 34, 99, 3, 22, 36, 733, 18)); 
+// console.log(Math.max(2, 34, 99, 3, 22, 36, 733, 18));
+// console.log(Math.min(2, 34, 99, 3, 22, 36, 733, 18)); 
 
 // 4
-const number = Math.random(3,19);
-console.log(number);
+// const number = Math.random(3,19);
+// console.log(number); !!
 
