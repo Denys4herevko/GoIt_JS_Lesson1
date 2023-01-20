@@ -67,7 +67,7 @@ let a8 = 5+'3';
 alert( a8);
 let a9 = '5'-3;
 alert( a9);
-let a10 = 75 +'кг';
+let a10 = 90 +'кг';
 alert( a10);
 
 // 8
