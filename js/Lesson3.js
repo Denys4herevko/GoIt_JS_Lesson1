@@ -1,6 +1,7 @@
 // const x1 = 10;
 // const x2= 30;
-// const number = 45;console.log(`Число &{(number)} потрапляє у відрозок до &{x1}?`,number <x1); 
+// const number = 45;
+// console.log(`Число &{(number)} потрапляє у відрозок до &{x1}?`,number <x1); 
 // Чи потравляє до x1
 // console.log(`Число &{(number)} потрапляє у відрозок до &{x2}?`,number >x2); 
 //  Чи потрапляє до ч2 
